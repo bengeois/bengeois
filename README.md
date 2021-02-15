@@ -25,8 +25,8 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourgeoisbenjamin&show_icons=true&locale=en&layout=compact" alt="bourgeoisbenjamin" /></p>
+<h3 align="left">Statistics:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bourgeoisbenjamin&show_icons=true&locale=en" alt="bourgeoisbenjamin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bourgeoisbenjamin&show_icons=true&locale=en" alt="bourgeoisbenjamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bourgeoisbenjamin&" alt="bourgeoisbenjamin" /></p>
