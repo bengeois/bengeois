@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Benjamin Bourgeois</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h1 align="center">Hi 👋, Nice to see you here!</h1>
+<h3 align="center">I'm Benjamin, a passionate developer from France</h3>
