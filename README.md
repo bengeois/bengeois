@@ -3,7 +3,8 @@
 My name is Benjamin Bourgeois and I'm a fullstack developer engineer.
 I'm from France, living in Nantes and currently student at Dublin City University and Epitech. 
 
-  - 🖥 I’m currently working as a Fullstack developer at [IKO-BOX](https://ikobox.fr/)
+  - 🖥 Fullstack developer at [IKO-BOX](https://ikobox.fr/)
+  - 🖥 Working on a big project [Votre agora](https://votreagora.fr/)
   - 💡 I’m currently a student at Dublin City University and Epitech
   - 💬 Ask me about everything for your project
 
