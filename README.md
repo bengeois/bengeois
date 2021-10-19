@@ -1,16 +1,28 @@
-# Hi, Nice to see you here! <img src="https://github.com/benjaminbrgs/benjaminbrgs/blob/main/wave.gif" width="30px">
+![Header image](https://github.com/benjaminbrgs/benjaminbrgs/blob/wip/assets/header.png)
 
-My name is Benjamin Bourgeois and I'm a fullstack developer engineer.
-I'm from France, living in Nantes and currently student at Dublin City University and Epitech. 
+## Hi, Nice to see you here! <img src="https://github.com/benjaminbrgs/benjaminbrgs/blob/main/wave.gif" width="30px">
 
-  - 🖥 Fullstack developer at [IKO-BOX](https://ikobox.fr/)
-  - 🖥 Working on a big project [Votre agora](https://votreagora.fr/)
-  - 💡 I’m currently a student at Dublin City University and Epitech
-  - 💬 Ask me about everything for your project
+### I'm a Full-Stack Developer from France.
 
-<a href="https://www.buymeacoffee.com/bourgeoisbenjam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="40px" ></a>
+##### NOW
 
-### Languages
+- 🙇🏻‍♂️ Student in Dublin City University and Epitech
+- 🖥 CTO of Meant to Meet [here](https://metome.fr/)
+- 💼 Freelance fullstack dev
+
+##### BIO
+
+- ⚙️ I use daily: `.js`, `.jsx`, `.php`, `.py`, `.html`, `.css`, 
+- 🌍 I'm mostly active within the **application and web development Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **web development**, **development**, **application development**
+- 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:contact@benjaminbourgeois.com)
+- ⚡️ Fun fact: What's your favorite drinks, and why Coca-Cola ?
+
+
+<hr/>
+
+### Some of my most used languages, but open to learn new ones
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -25,7 +37,7 @@ I'm from France, living in Nantes and currently student at Dublin City Universit
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 
 
-### Technologies
+### Some of my most used technologies, but open to learn new ones
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -36,14 +48,3 @@ I'm from France, living in Nantes and currently student at Dublin City Universit
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-### Full Stack Projects
-
-Soon...
-
-## 📫 How to reach me:
-  
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/benjamin_brgs)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bourgeoisbenjamin/)  &nbsp;
-<a href="mailto:contact@benjaminbourgeois.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
-<img src="https://github.com/benjaminbrgs/benjaminbrgs/blob/main/life_balance.gif" width="200px">
