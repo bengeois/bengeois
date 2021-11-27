@@ -12,10 +12,10 @@
 
 ##### BIO
 
-- ⚙️ I use daily: `.js`, `.jsx`, `.php`, `.py`, `.html`, `.css`, 
+- ⚙️ I use daily: `.js`, `.jsx`, `.sol`, `.php`, `.py`, `.html`, `.css`, 
 - 🌍 I'm mostly active within the **application and web development Community**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **web development**, **development**, **application development**
+- 🌱 Learning all about **Blockchain** and **Open Source**
+- 💬 Ping me about **web development**, **development**, **application development**, **blockchain**, **crypto**
 - 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:contact@benjaminbourgeois.com)
 - ⚡️ Fun fact: What's your favorite drinks, and why Coca-Cola ?
 
