@@ -9,6 +9,7 @@
 - 🙇🏻‍♂️ Student in Dublin City University and Epitech
 - 🖥 CTO of Meant to Meet [here](https://metome.fr/)
 - 💼 Freelance fullstack dev
+- 👀 Crypto enthusiast
 
 ##### BIO
 
@@ -28,6 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Solana](https://img.shields.io/badge/-Solana-000?&logo=Solana)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Kotlin](https://img.shields.io/badge/-Dart-000?&logo=Kotlin)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
