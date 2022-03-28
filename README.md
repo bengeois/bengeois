@@ -29,7 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Solana](https://img.shields.io/badge/-Solana-000?&logo=Solana)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Kotlin](https://img.shields.io/badge/-Dart-000?&logo=Kotlin)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
