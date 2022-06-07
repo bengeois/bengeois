@@ -1,4 +1,3 @@
-![Header image](https://github.com/benjaminbrgs/benjaminbrgs/blob/wip/assets/header.png)
 
 ## Hi, Nice to see you here! <img src="https://github.com/benjaminbrgs/benjaminbrgs/blob/main/wave.gif" width="30">
 
