@@ -1,6 +1,6 @@
 ![Header image](https://github.com/benjaminbrgs/benjaminbrgs/blob/wip/assets/header.png)
 
-## Hi, Nice to see you here! <img src="https://github.com/benjaminbrgs/benjaminbrgs/blob/main/wave.gif" width="30px">
+## Hi, Nice to see you here! <img src="https://github.com/benjaminbrgs/benjaminbrgs/blob/main/wave.gif" width="30">
 
 ### I'm a Full-Stack Developer from France.
 
@@ -9,13 +9,12 @@
 - 🙇🏻‍♂️ Student in Dublin City University and Epitech
 - 🖥 CTO of Meant to Meet [here](https://metome.fr/)
 - 💼 Freelance fullstack dev
-- 👀 Crypto enthusiast
 
 ##### BIO
 
 - ⚙️ I use daily: `.js`, `.jsx`, `.sol`, `.php`, `.py`, `.html`, `.css`, 
 - 🌍 I'm mostly active within the **application and web development Community**
-- 🌱 Learning all about **Blockchain** and **Open Source**
+- 🌱 Learning all about **web development**, **Blockchain** and **Open Source**
 - 💬 Ping me about **web development**, **development**, **application development**, **blockchain**, **crypto**
 - 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:contact@benjaminbourgeois.com)
 - ⚡️ Fun fact: What's your favorite drinks, and why Coca-Cola ?
