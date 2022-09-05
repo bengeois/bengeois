@@ -5,9 +5,9 @@
 
 ##### NOW
 
+- Currently working at [Zenika](https://github.com/Zenika)
 - 🙇🏻‍♂️ Student in Dublin City University and Epitech
 - 🖥 CTO of Meant to Meet [here](https://metome.fr/)
-- 💼 Freelance fullstack dev
 
 ##### BIO
 
