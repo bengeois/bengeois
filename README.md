@@ -6,15 +6,14 @@
 ##### NOW
 
 - Currently working at [Zenika](https://github.com/Zenika)
-- 🙇🏻‍♂️ Student in Dublin City University and Epitech
-- 🖥 CTO of Propale [here](https://propale.eu/)
+- Epitech & Dublin City University graduate
 
 ##### BIO
 
-- ⚙️ I use daily: `.js`, `.jsx`, `.sol`, `.php`, `.py`, `.html`, `.css`, 
+- ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.jsx`
 - 🌍 I'm mostly active within the **application and web development Community**
-- 🌱 Learning all about **web development**, **Blockchain** and **Open Source**
-- 💬 Ping me about **web development**, **development**, **application development**, **blockchain**, **crypto**
+- 🌱 Learning all about **web development**, **Cloud**, **Blockchain** and **Open Source**
+- 💬 Ping me about **web development**, **development**, **application development**, **blockchain**
 - 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:contact@benjaminbourgeois.com)
 - ⚡️ Fun fact: What's your favorite drinks, and why Coca-Cola ?
 
@@ -25,6 +24,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
@@ -42,6 +42,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
