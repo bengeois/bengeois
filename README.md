@@ -3,20 +3,11 @@
 
 ### I'm a Full-Stack Developer from France.
 
-##### NOW
-
-- Currently working at [Zenika](https://github.com/Zenika)
-- Epitech & Dublin City University graduate
-
-##### BIO
-
-- ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.jsx`
+- 💼 Currently working at [Zenika](https://github.com/Zenika)
+- ⚡ I'm lead-dev back-end of [Propale](https://propale.eu)
 - 🌍 I'm mostly active within the **application and web development Community**
-- 🌱 Learning all about **web development**, **Cloud**, **Blockchain** and **Open Source**
-- 💬 Ping me about **web development**, **development**, **application development**, **blockchain**
+- ☕️ Ping me about **web development**, **development**, **application development**, **TechSovereignty**, **blockchain**
 - 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:contact@benjaminbourgeois.com)
-- ⚡️ Fun fact: What's your favorite drinks, and why Coca-Cola ?
-
 
 <hr/>
 
@@ -28,8 +19,6 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Kotlin](https://img.shields.io/badge/-Dart-000?&logo=Kotlin)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -44,7 +33,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
+![RabbitMq](https://img.shields.io/badge/-RabbitMq-000?&logo=RabbitMq)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
