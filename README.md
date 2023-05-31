@@ -7,7 +7,7 @@
 - ⚡ I'm lead-dev back-end of [Propale](https://propale.eu)
 - 🌍 I'm mostly active within the **application and web development Community**
 - ☕️ Ping me about **web development**, **development**, **application development**, **TechSovereignty**, **blockchain**
-- 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:contact@benjaminbourgeois.com)
+- 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:hello@bbourgeois.dev)
 
 <hr/>
 
