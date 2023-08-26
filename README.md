@@ -7,26 +7,23 @@
 - ⚡ I'm lead-dev back-end of [Propale](https://propale.eu)
 - 🌍 I'm mostly active within the **application and web development Community**
 - ☕️ Ping me about **web development**, **development**, **application development**, **TechSovereignty**, **blockchain**
-- 📫 Reach me: [twitter](https://twitter.com/benjamin_brgs) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:hello@bbourgeois.dev)
+- 📫 Reach me: [twitter](https://twitter.com/bengeois) - [linkedin](https://www.linkedin.com/in/bourgeoisbenjamin) - [email](mailto:hello@bbourgeois.dev)
 
 <hr/>
 
-### Some of my most used languages, but open to learn new ones
+### Some of my most used languages, but open to learn/develop with new ones
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PHP](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 
 
-### Some of my most used technologies, but open to learn new ones
+### Some of my most used technologies, but open to learn/develop with new ones
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -38,4 +35,3 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
