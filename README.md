@@ -4,9 +4,8 @@
 ### I'm a Full-Stack Developer from France.
 
 - 💼 Currently working at [Zenika](https://github.com/Zenika)
-- ⚡ I'm lead-dev back-end of [Propale](https://propale.eu)
 - 🌍 I'm mostly active within the **application and web development Community**
-- ☕️ Ping me about **web development**, **development**, **application development**, **TechSovereignty**, **blockchain**
+- ☕️ Ping me about **web development**, **development**, **application development**, **TechSovereignty**, **web3**
 
 <hr/>
 
