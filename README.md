@@ -44,4 +44,9 @@ I'm a passionate developer with a strong interest in software & web development,
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Interacting with Solana in Go: A Beginner&#39;s Guide](https://blog.bbourgeois.dev/interacting-with-solana-in-go-a-beginners-guide)
+- [Web3 : Le bilan de Google Cloud sur la blockchain en 2023](https://blog.bbourgeois.dev/web3-le-bilan-de-google-cloud-sur-la-blockchain-en-2023)
+- [Developing a NodeJS Wrapper for Snowflake SDK &lpar;Pagination included&rpar;](https://blog.bbourgeois.dev/developing-a-nodejs-wrapper-for-snowflake-sdk-pagination-included)
+- [Productivity porn](https://blog.bbourgeois.dev/productivity-porn-b13c272915f)
+- [Machine Learning in the World Of Blockchainand Cryptocurrency](https://blog.bbourgeois.dev/machine-learning-in-the-world-of-blockchain-and-cryptocurrency-9c2f4ccb8838)
 <!-- BLOG-POST-LIST:END -->
