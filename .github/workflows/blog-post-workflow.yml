@@ -17,3 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.bbourgeois.dev/rss.xml"
+          committer_username: "bengeois"
+          committer_email: "me@bbourgeois.dev"
+          commit_message: "Updated with the latest posts"
