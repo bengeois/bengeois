@@ -42,7 +42,7 @@ I'm a passionate developer with a strong interest in software & web development,
 
 <hr/>
 
-📕 **Latest Blog Posts**
+📕🎙️ **Latest Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Démarrez votre projet Web3 : panorama tech du développement de smart-contracts en 2024](https://blog.bbourgeois.dev/demarrez-votre-projet-web3-panorama-tech-du-developpement-de-smart-contracts-en-2024)
 - [Interacting with Solana in Go: A Beginner&#39;s Guide](https://blog.bbourgeois.dev/interacting-with-solana-in-go-a-beginners-guide)
