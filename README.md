@@ -44,9 +44,9 @@ I'm a passionate developer with a strong interest in software & web development,
 
 📕🎙️ **Latest Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Démarrez votre projet Web3 : panorama tech du développement de smart-contracts en 2024](https://blog.bbourgeois.dev/demarrez-votre-projet-web3-panorama-tech-du-developpement-de-smart-contracts-en-2024)
-- [Interacting with Solana in Go: A Beginner&#39;s Guide](https://blog.bbourgeois.dev/interacting-with-solana-in-go-a-beginners-guide)
-- [Web3 : Le bilan de Google Cloud sur la blockchain en 2023](https://blog.bbourgeois.dev/web3-le-bilan-de-google-cloud-sur-la-blockchain-en-2023)
-- [Developing a NodeJS Wrapper for Snowflake SDK &lpar;Pagination included&rpar;](https://blog.bbourgeois.dev/developing-a-nodejs-wrapper-for-snowflake-sdk-pagination-included)
-- [Productivity porn](https://blog.bbourgeois.dev/productivity-porn-b13c272915f)
+- [Zenika Open Source - Bilan Hacktoberfest 2024](https://blog.zenika.com/2024/11/14/zenika-open-source-bilan-hacktoberfest-2024/)
+- [Reflecting on my Hacktoberfest 2024 journey](https://bbourgeois.dev/blog/2024/03-reflecting-hacktoberfest-journey-2024/)
+- [Démarrez votre projet Web3 : panorama tech du développement de smart-contracts en 2024](https://bbourgeois.dev/blog/2024/02-demarrez-projet-web3-2024/)
+- [Zenikast -  Episode 2 - Les certifications dans l&#39;IT](https://open.spotify.com/episode/3iEMyIxdmiLGJUOG0DeUZq?si=17661b5747a649c1)
+- [Zenikast -  Episode 0 - Présentation du projet](https://open.spotify.com/episode/5fARHGhfVS0tHUZMPAnHqI?si=a13e8d8b1b8b42ca)
 <!-- BLOG-POST-LIST:END -->
