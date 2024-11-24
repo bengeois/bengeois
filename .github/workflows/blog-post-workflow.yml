@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 2 * * 5' # At 02:00 on Friday.
@@ -8,7 +8,7 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: "Update this repo's README with latest blog posts"
+    name: "Update this repo's README with latest posts"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.bbourgeois.dev/rss.xml"
+          feed_list: "https://www.bbourgeois.dev/rss.xml"
