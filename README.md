@@ -44,9 +44,9 @@ I'm a passionate developer with a strong interest in software & web development,
 
 📕🎙️ **Latest Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Deux mois dans la matrix et si vous nous rejoigniez ?](https://bbourgeois.dev/talks/2025/matrix/)
 - [🤖 Using Gemini Code Assist for Code Reviews in My Personal Project](https://bbourgeois.dev/blog/2025/01-gemini-code-assist-github-code-review/)
-- [{Cloud || Container} Development environement](https://bbourgeois.dev/#/)
+- [{Cloud || Container} Development environement](https://youtu.be/Tl9JplAAVB8)
 - [Zenikast -  Saison 2 - Episode Bonus - Devoxx France 2025](https://open.spotify.com/episode/0DzDhXOvV0662ZNWpl7GFf)
 - [À la poursuite des centièmes : quand la tech plonge dans la piscine](https://www.youtube.com/watch?v=tYfgECXYAAs)
-- [Web3 : Le bilan de Google Cloud sur la blockchain en 2024](https://bbourgeois.dev/blog/2024/05-google-cloud-web3-2024/)
 <!-- BLOG-POST-LIST:END -->
