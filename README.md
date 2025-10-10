@@ -41,48 +41,48 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
-- [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (2 days ago)
-- [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/blog/2025/04-duckdb-aws-lambda-layers/) (3 weeks ago)
+- [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (1 week ago)
+- [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/blog/2025/04-duckdb-aws-lambda-layers/) (4 weeks ago)
 - [Google Agent Development Kit : Core Concept](https://bbourgeois.dev/blog/2025/03-adk-core-concept/) (3 months ago)
-- [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://bbourgeois.dev/blog/2025/02-rendre-podcast-accessible/) (3 months ago)
+- [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://bbourgeois.dev/blog/2025/02-rendre-podcast-accessible/) (4 months ago)
 - [Deux mois dans la matrix et si vous nous rejoigniez ?](https://bbourgeois.dev/talks/2025/matrix/) (4 months ago)
 
 <hr/>
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 day ago)
-- [bengeois/benjamincopinetfr](https://github.com/bengeois/benjamincopinetfr) (2 days ago)
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 days ago)
-- [Zenika/skillZ](https://github.com/Zenika/skillZ) - App to manage consultants&#39; skills and technical appetites. (2 days ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 weeks ago)
+- [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) - Customize your Zenikanard (1 day ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 days ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (3 days ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
+- [Zenika/skillZ](https://github.com/Zenika/skillZ) - App to manage consultants&#39; skills and technical appetites. (1 week ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-qdrant==1.0.0a1](https://github.com/langchain-ai/langchain/releases/tag/langchain-qdrant%3D%3D1.0.0a1), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
-- [git-town/git-town](https://github.com/git-town/git-town) ([v22.0.0](https://github.com/git-town/git-town/releases/tag/v22.0.0), 1 week ago) - Git branches made easy
-- [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) ([v2.0.0-alpha.19](https://github.com/openfoodfacts/openfoodfacts-js/releases/tag/v2.0.0-alpha.19), 1 week ago) - Official JavaScript package for the Open Food Facts API
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==0.3.79](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D0.3.79), 1 day ago) - 🦜🔗 Build context-aware reasoning applications
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 3 days ago) - 👀 tracksy - Visualize your data
+- [git-town/git-town](https://github.com/git-town/git-town) ([v22.0.0](https://github.com/git-town/git-town/releases/tag/v22.0.0), 2 weeks ago) - Git branches made easy
+- [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) ([v2.0.0-alpha.19](https://github.com/openfoodfacts/openfoodfacts-js/releases/tag/v2.0.0-alpha.19), 2 weeks ago) - Official JavaScript package for the Open Food Facts API
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 2 months ago) - Website to display awesome insights about organization open source activity
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.1.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.1.0), 7 months ago) - 👀 tracksy - Visualize your data
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: upgrade TailwindCSS to V4](https://github.com/zenika-open-source/oss.zenika.com/pull/533) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (1 day ago)
-- [chore(dependabot): update dependabot configuration to group npm packa…](https://github.com/Zenika/skillZ/pull/806) on [Zenika/skillZ](https://github.com/Zenika/skillZ) (2 days ago)
-- [chore: add groups for npm-packages and github-actions in dependabot configuration](https://github.com/Gudsfile/tracksy/pull/126) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (2 days ago)
-- [feat: change revalidation to dynamic fetching for contributors](https://github.com/zenika-open-source/oss.zenika.com/pull/526) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (2 days ago)
-- [fix: add revalidation period for contributors data fetching](https://github.com/zenika-open-source/oss.zenika.com/pull/523) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (1 week ago)
+- [:wrench: add dependabot configuration for automated npm updates](https://github.com/zenika-open-source/my-zenikanard/pull/79) on [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) (1 day ago)
+- [feat(): Update DUCKDB_VERSION to 1.4.1](https://github.com/bengeois/aws-layer-duckdb-python/pull/12) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (2 days ago)
+- [breaking(): upgrade to Node.js 22](https://github.com/zenika-open-source/my-zenikanard/pull/77) on [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) (3 days ago)
+- [chore: reorganize GitHub workflows](https://github.com/Gudsfile/tracksy/pull/147) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (3 days ago)
+- [chore: replace CI workflow with a new build and test workflow](https://github.com/zenika-open-source/my-zenikanard/pull/71) on [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) (3 days ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 week ago)
-- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (2 weeks ago)
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (1 month ago)
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (1 month ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 weeks ago)
+- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (3 weeks ago)
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (2 months ago)
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 months ago)
 - [qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr) - Qwerty keyboard layout with French accents (3 months ago)
