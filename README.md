@@ -41,7 +41,7 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
-- [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (2 weeks ago)
+- [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (3 weeks ago)
 - [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/blog/2025/04-duckdb-aws-lambda-layers/) (1 month ago)
 - [Google Agent Development Kit : Core Concept](https://bbourgeois.dev/blog/2025/03-adk-core-concept/) (3 months ago)
 - [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://bbourgeois.dev/blog/2025/02-rendre-podcast-accessible/) (4 months ago)
@@ -51,38 +51,38 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (4 days ago)
-- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (6 days ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (6 days ago)
-- [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) - Customize your Zenikanard (1 week ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
+- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (1 week ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (1 week ago)
+- [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) - Customize your Zenikanard (2 weeks ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 weeks ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain==1.0.0rc2](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.0.0rc2), today) - 🦜🔗 Build context-aware reasoning applications
-- [git-town/git-town](https://github.com/git-town/git-town) ([v22.1.0](https://github.com/git-town/git-town/releases/tag/v22.1.0), 3 days ago) - Git branches made easy
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 1 week ago) - 👀 tracksy - Visualize your data
-- [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) ([v2.0.0-alpha.19](https://github.com/openfoodfacts/openfoodfacts-js/releases/tag/v2.0.0-alpha.19), 3 weeks ago) - Official JavaScript package for the Open Food Facts API
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-qdrant==1.1.0](https://github.com/langchain-ai/langchain/releases/tag/langchain-qdrant%3D%3D1.1.0), 2 days ago) - 🦜🔗 Build context-aware reasoning applications
+- [git-town/git-town](https://github.com/git-town/git-town) ([v22.1.0](https://github.com/git-town/git-town/releases/tag/v22.1.0), 1 week ago) - Git branches made easy
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 2 weeks ago) - 👀 tracksy - Visualize your data
+- [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) ([v2.0.0-alpha.19](https://github.com/openfoodfacts/openfoodfacts-js/releases/tag/v2.0.0-alpha.19), 1 month ago) - Official JavaScript package for the Open Food Facts API
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 3 months ago) - Website to display awesome insights about organization open source activity
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [:bug: Allow null github or gitlab in contributor list](https://github.com/zenika-open-source/oss.zenika.com/pull/542) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (4 days ago)
-- [:memo: add missing parameters for image generation and section for video generation](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/14) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (5 days ago)
-- [Add bengeois.is-a.dev domain](https://github.com/is-a-dev/register/pull/27988) on [is-a-dev/register](https://github.com/is-a-dev/register) (6 days ago)
-- [:wrench: add dependabot configuration for automated npm updates](https://github.com/zenika-open-source/my-zenikanard/pull/79) on [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) (1 week ago)
-- [feat(): Update DUCKDB_VERSION to 1.4.1](https://github.com/bengeois/aws-layer-duckdb-python/pull/12) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (1 week ago)
+- [feat: add Picocli support &amp; review this project](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/16) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (5 days ago)
+- [:bug: Allow null github or gitlab in contributor list](https://github.com/zenika-open-source/oss.zenika.com/pull/542) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (1 week ago)
+- [:memo: add missing parameters for image generation and section for video generation](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/14) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 week ago)
+- [Add bengeois.is-a.dev domain](https://github.com/is-a-dev/register/pull/27988) on [is-a-dev/register](https://github.com/is-a-dev/register) (1 week ago)
+- [:wrench: add dependabot configuration for automated npm updates](https://github.com/zenika-open-source/my-zenikanard/pull/79) on [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) (2 weeks ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (3 weeks ago)
-- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (4 weeks ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (4 weeks ago)
+- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (1 month ago)
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (2 months ago)
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 months ago)
-- [qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr) - Qwerty keyboard layout with French accents (3 months ago)
+- [qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr) - Qwerty keyboard layout with French accents (4 months ago)
