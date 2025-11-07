@@ -41,28 +41,28 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
+- [Déployer son agent sur Google Vertex AI Agent Engine](https://bbourgeois.dev/blog/2025/05-deploy-google-agent-engine/) (3 days ago)
 - [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (1 month ago)
 - [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/blog/2025/04-duckdb-aws-lambda-layers/) (1 month ago)
 - [Google Agent Development Kit : Core Concept](https://bbourgeois.dev/blog/2025/03-adk-core-concept/) (4 months ago)
-- [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://bbourgeois.dev/blog/2025/02-rendre-podcast-accessible/) (4 months ago)
-- [Deux mois dans la matrix et si vous nous rejoigniez ?](https://bbourgeois.dev/talks/2025/matrix/) (5 months ago)
+- [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://bbourgeois.dev/blog/2025/02-rendre-podcast-accessible/) (5 months ago)
 
 <hr/>
 
 #### 👷 Check out what I'm currently working on
 
-- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (4 days ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (2 weeks ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (2 weeks ago)
-- [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) - Customize your Zenikanard (3 weeks ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (3 weeks ago)
+- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (1 week ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (3 weeks ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (3 weeks ago)
+- [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) - Customize your Zenikanard (4 weeks ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 month ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-anthropic==1.0.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.0.1), 1 day ago) - 🦜🔗 The platform for reliable agents.
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 3 weeks ago) - 👀 tracksy - Visualize your data
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain==1.0.4](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.0.4), 1 day ago) - 🦜🔗 The platform for reliable agents.
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 1 month ago) - 👀 tracksy - Visualize your data
 - [openfoodfacts/openfoodfacts-js](https://github.com/openfoodfacts/openfoodfacts-js) ([v2.0.0-alpha.19](https://github.com/openfoodfacts/openfoodfacts-js/releases/tag/v2.0.0-alpha.19), 1 month ago) - Official JavaScript package for the Open Food Facts API
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 3 months ago) - Website to display awesome insights about organization open source activity
 - [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2025-03-03](https://github.com/Zenika/skillZ/releases/tag/v2025-03-03), 8 months ago) - App to manage consultants&#39; skills and technical appetites.
@@ -71,11 +71,11 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: refactor command structure with subcommands](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/18) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (4 days ago)
-- [feat: add devcontainer configuration for Agent Z Communication Assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/17) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (4 days ago)
-- [feat: add Picocli support &amp; review this project](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/16) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 week ago)
-- [:bug: Allow null github or gitlab in contributor list](https://github.com/zenika-open-source/oss.zenika.com/pull/542) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (2 weeks ago)
-- [:memo: add missing parameters for image generation and section for video generation](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/14) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (2 weeks ago)
+- [feat: refactor command structure with subcommands](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/18) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 week ago)
+- [feat: add devcontainer configuration for Agent Z Communication Assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/17) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 week ago)
+- [feat: add Picocli support &amp; review this project](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/16) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (2 weeks ago)
+- [:bug: Allow null github or gitlab in contributor list](https://github.com/zenika-open-source/oss.zenika.com/pull/542) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (3 weeks ago)
+- [:memo: add missing parameters for image generation and section for video generation](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/14) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (3 weeks ago)
 
 <hr/>
 
@@ -83,6 +83,6 @@ I'm a passionate developer with a strong interest in software & web development 
 
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 month ago)
 - [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (1 month ago)
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (2 months ago)
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (2 months ago)
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (3 months ago)
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS (3 months ago)
 - [qwerty-fr/qwerty-fr](https://github.com/qwerty-fr/qwerty-fr) - Qwerty keyboard layout with French accents (4 months ago)
