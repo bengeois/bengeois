@@ -41,8 +41,8 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
-- [Déployer son agent sur Google Vertex AI Agent Engine](https://bbourgeois.dev/blog/2025/05-deploy-google-agent-engine/) (3 weeks ago)
-- [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (1 month ago)
+- [Déployer son agent sur Google Vertex AI Agent Engine](https://bbourgeois.dev/blog/2025/05-deploy-google-agent-engine/) (1 month ago)
+- [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (2 months ago)
 - [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/blog/2025/04-duckdb-aws-lambda-layers/) (2 months ago)
 - [Google Agent Development Kit : Core Concept](https://bbourgeois.dev/blog/2025/03-adk-core-concept/) (5 months ago)
 - [Rendre son podcast accessible avec l&#39;IA au service de la transcription](https://bbourgeois.dev/blog/2025/02-rendre-podcast-accessible/) (5 months ago)
@@ -51,7 +51,7 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 👷 Check out what I'm currently working on
 
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 weeks ago)
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (1 month ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 month ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (1 month ago)
@@ -61,8 +61,8 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([1.1.1](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/1.1.1), 2 days ago) - An IA Agent to transcibe podcasts
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain==1.1.0](https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.1.0), 4 days ago) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==1.1.1](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.1.1), 1 day ago) - 🦜🔗 The platform for reliable agents.
+- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([1.1.1](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/1.1.1), 1 week ago) - An IA Agent to transcibe podcasts
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.2.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.2.0), 1 month ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 4 months ago) - Website to display awesome insights about organization open source activity
 - [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2025-03-03](https://github.com/Zenika/skillZ/releases/tag/v2025-03-03), 9 months ago) - App to manage consultants&#39; skills and technical appetites.
@@ -71,7 +71,7 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(): Update DUCKDB_VERSION to 1.4.2 and add support of Python 3.14](https://github.com/bengeois/aws-layer-duckdb-python/pull/14) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (2 weeks ago)
+- [feat(): Update DUCKDB_VERSION to 1.4.2 and add support of Python 3.14](https://github.com/bengeois/aws-layer-duckdb-python/pull/14) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (3 weeks ago)
 - [feat: refactor command structure with subcommands](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/18) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 month ago)
 - [feat: add devcontainer configuration for Agent Z Communication Assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/17) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 month ago)
 - [feat: add Picocli support &amp; review this project](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/16) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 month ago)
@@ -81,8 +81,8 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### ⭐ Recent stars
 
-- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (4 days ago)
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (1 week ago)
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (1 week ago)
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (2 weeks ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 months ago)
 - [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (2 months ago)
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (3 months ago)
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (4 months ago)
