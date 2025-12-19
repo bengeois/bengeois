@@ -41,48 +41,48 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
-- [Web3 : Le bilan de Google Cloud sur la blockchain en 2025](https://bbourgeois.dev/blog/2025/06-google-cloud-web3-2025/) (today)
+- [Google Antigravity : l&#39;ère des IDE Agentique](https://bbourgeois.dev/blog/2025/07-antigravity-ide-agentic/) (1 day ago)
+- [Web3 : Le bilan de Google Cloud sur la blockchain en 2025](https://bbourgeois.dev/blog/2025/06-google-cloud-web3-2025/) (1 week ago)
 - [Déployer son agent sur Google Vertex AI Agent Engine](https://bbourgeois.dev/blog/2025/05-deploy-google-agent-engine/) (1 month ago)
 - [Zenikast -  Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (2 months ago)
 - [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/blog/2025/04-duckdb-aws-lambda-layers/) (3 months ago)
-- [Google Agent Development Kit : Core Concept](https://bbourgeois.dev/blog/2025/03-adk-core-concept/) (5 months ago)
 
 <hr/>
 
 #### 👷 Check out what I'm currently working on
 
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 days ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 days ago)
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 week ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (1 month ago)
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (2 months ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (2 months ago)
-- [zenika-open-source/my-zenikanard](https://github.com/zenika-open-source/my-zenikanard) - Customize your Zenikanard (2 months ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-openai==1.1.2](https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.1.2), 1 day ago) - 🦜🔗 The platform for reliable agents.
-- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.1.2](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.1.2), 2 days ago) - An IA Agent to transcibe podcasts
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 1 week ago) - 👀 tracksy - Visualize your data
-- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 4 months ago) - Website to display awesome insights about organization open source activity
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ([langchain-core==1.2.3](https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.2.3), 1 day ago) - 🦜🔗 The platform for reliable agents.
+- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.1.2](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.1.2), 1 week ago) - An IA Agent to transcibe podcasts
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 2 weeks ago) - 👀 tracksy - Visualize your data
+- [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 5 months ago) - Website to display awesome insights about organization open source activity
 - [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2025-03-03](https://github.com/Zenika/skillZ/releases/tag/v2025-03-03), 9 months ago) - App to manage consultants&#39; skills and technical appetites.
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(netlify): update cache control headers for improved deployment handling](https://github.com/zenika-open-source/oss.zenika.com/pull/555) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (1 week ago)
 - [feat(): Update DUCKDB_VERSION to 1.4.2 and add support of Python 3.14](https://github.com/bengeois/aws-layer-duckdb-python/pull/14) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (1 month ago)
 - [feat: refactor command structure with subcommands](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/18) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 month ago)
 - [feat: add devcontainer configuration for Agent Z Communication Assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/17) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 month ago)
-- [feat: add Picocli support &amp; review this project](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/16) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (1 month ago)
-- [:bug: Allow null github or gitlab in contributor list](https://github.com/zenika-open-source/oss.zenika.com/pull/542) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (2 months ago)
+- [feat: add Picocli support &amp; review this project](https://github.com/zenika-open-source/agent-Z-communication-assistant/pull/16) on [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) (2 months ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (2 weeks ago)
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (3 weeks ago)
+- [bm-github/owasp-social-osint-agent](https://github.com/bm-github/owasp-social-osint-agent) - An autonomous OSINT agent for social media using any OpenAI-compatible API for deep analysis and reporting. (1 day ago)
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. (3 weeks ago)
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. (4 weeks ago)
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 months ago)
-- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (2 months ago)
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (4 months ago)
+- [docker/cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering (3 months ago)
