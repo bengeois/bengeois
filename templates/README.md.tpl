@@ -40,7 +40,7 @@ I'm a passionate developer with a strong interest in software & web development 
 <hr/>
 
 #### 📕🎙️ My recent posts
-{{range rss "https://www.bbourgeois.dev/rss.xml" 5}}
+{{range rss "https://www.bbourgeois.dev/feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
