@@ -41,18 +41,18 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
-- [Zenikast - Saison 3 - Episode 5 - Un monde d&#39;agents](https://open.spotify.com/episode/60L2divCAxcmRbvXGVXhpB?si=848328b339c445c0) (2 days ago)
-- [Google Antigravity : l&#39;ère des IDE Agentique](https://bbourgeois.dev/posts/2025/antigravity-ide-agentique/) (1 month ago)
-- [Web3 : Le bilan de Google Cloud sur la blockchain en 2025](https://bbourgeois.dev/posts/2025/google-cloud-web3-2025/) (1 month ago)
-- [Déployer son agent sur Google Vertex AI Agent Engine](https://bbourgeois.dev/posts/2025/deploy-agent-engine/) (2 months ago)
+- [Zenikast - Saison 3 - Episode 5 - Un monde d&#39;agents](https://open.spotify.com/episode/60L2divCAxcmRbvXGVXhpB?si=848328b339c445c0) (1 week ago)
 - [{Cloud || Container} Development environment](https://www.youtube.com/live/HLhXouEH2tA?si=Oqc3AXroX8TKNe7y&amp;t=338) (3 months ago)
+- [Zenikast - Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (3 months ago)
+- [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/posts/2025/duckdb-aws-lambda/) (4 months ago)
+- [Google Agent Development Kit : Core Concept](https://bbourgeois.dev/posts/2025/adk-core-concept/) (6 months ago)
 
 <hr/>
 
 #### 👷 Check out what I'm currently working on
 
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 weeks ago)
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (3 weeks ago)
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (1 month ago)
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) - Website to display awesome insights about organization open source activity (1 month ago)
 - [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 month ago)
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) - This project allows to help up with Gemini to generate some images &amp; videos  (2 months ago)
@@ -61,7 +61,7 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 🔭 Latest releases I've contributed to
 
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.0](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.0), 2 weeks ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 3 days ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.1.2](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.1.2), 1 month ago) - An IA Agent to transcibe podcasts
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 1 month ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 6 months ago) - Website to display awesome insights about organization open source activity
@@ -71,9 +71,9 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: add AGENTS.md](https://github.com/Gudsfile/tracksy/pull/231) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (3 weeks ago)
-- [Add customizable commit messages for deploy and destroy actions](https://github.com/rossjrw/pr-preview-action/pull/120) on [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) (3 weeks ago)
-- [feat: migrate deployment and previews on Github Pages](https://github.com/Gudsfile/tracksy/pull/227) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (4 weeks ago)
+- [docs: add AGENTS.md](https://github.com/Gudsfile/tracksy/pull/231) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (1 month ago)
+- [Add customizable commit messages for deploy and destroy actions](https://github.com/rossjrw/pr-preview-action/pull/120) on [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) (1 month ago)
+- [feat: migrate deployment and previews on Github Pages](https://github.com/Gudsfile/tracksy/pull/227) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (1 month ago)
 - [chore(netlify): update cache control headers for improved deployment handling](https://github.com/zenika-open-source/oss.zenika.com/pull/555) on [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) (1 month ago)
 - [feat(): Update DUCKDB_VERSION to 1.4.2 and add support of Python 3.14](https://github.com/bengeois/aws-layer-duckdb-python/pull/14) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (2 months ago)
 
@@ -81,8 +81,8 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### ⭐ Recent stars
 
-- [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response (2 days ago)
+- [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension. (2 days ago)
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (3 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 days ago)
+- [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response (1 week ago)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers. (1 week ago)
-- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns (1 week ago)
-- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. (2 weeks ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 weeks ago)
