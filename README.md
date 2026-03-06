@@ -41,48 +41,48 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 📕🎙️ My recent posts
 
-- [{Cloud || Container} Development environment](https://docs.google.com/presentation/d/e/2PACX-1vSqlbI5XYNODPTGzT1aX-HrV3OpIxGoBVVMI0odZPADwgYvoQEt_SEybStG8t-yen9or4AVeswITbv-/pub) (3 weeks ago)
+- [{Cloud || Container} Development environment](https://docs.google.com/presentation/d/e/2PACX-1vSqlbI5XYNODPTGzT1aX-HrV3OpIxGoBVVMI0odZPADwgYvoQEt_SEybStG8t-yen9or4AVeswITbv-/pub) (1 month ago)
 - [Zenikast - Saison 3 - Episode 5 - Un monde d&#39;agents](https://open.spotify.com/episode/60L2divCAxcmRbvXGVXhpB?si=848328b339c445c0) (1 month ago)
-- [{Cloud || Container} Development environment](https://www.youtube.com/live/HLhXouEH2tA?si=Oqc3AXroX8TKNe7y&amp;t=338) (4 months ago)
-- [Zenikast - Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (4 months ago)
+- [{Cloud || Container} Development environment](https://www.youtube.com/live/HLhXouEH2tA?si=Oqc3AXroX8TKNe7y&amp;t=338) (5 months ago)
+- [Zenikast - Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (5 months ago)
 - [DuckDB on AWS Lambda: The Easy Way with Layers](https://bbourgeois.dev/posts/2025/duckdb-aws-lambda/) (5 months ago)
 
 <hr/>
 
 #### 👷 Check out what I'm currently working on
 
-- [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (4 days ago)
-- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 week ago)
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 week ago)
-- [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 week ago)
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (3 weeks ago)
+- [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (1 week ago)
+- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (2 weeks ago)
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
+- [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (2 weeks ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (4 weeks ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.1.1](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.1.1), 1 week ago) - This project allows to help up with Gemini to generate some images &amp; videos 
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 2 weeks ago)
+- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 4 days ago) - This project allows to help up with Gemini to generate some images &amp; videos 
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 3 weeks ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 1 month ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.1.2](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.1.2), 2 months ago) - An IA Agent to transcibe podcasts
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 2 months ago) - 👀 tracksy - Visualize your data
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 3 months ago) - 👀 tracksy - Visualize your data
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor: Update CI/CD workflow for Firebase deployment](https://github.com/techtown-fr/quiztown/pull/1) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 week ago)
-- [docs: specify deployment flags for webui depending on stack in Cloud Run documentation](https://github.com/google/adk-docs/pull/1318) on [google/adk-docs](https://github.com/google/adk-docs) (1 week ago)
-- [feat: add logos and README for TechTown profile](https://github.com/techtown-fr/.github/pull/14) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (2 weeks ago)
-- [Remove bengeois.is-a.dev domain](https://github.com/is-a-dev/register/pull/32273) on [is-a-dev/register](https://github.com/is-a-dev/register) (3 weeks ago)
+- [refactor: Update CI/CD workflow for Firebase deployment](https://github.com/techtown-fr/quiztown/pull/1) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
+- [docs: specify deployment flags for webui depending on stack in Cloud Run documentation](https://github.com/google/adk-docs/pull/1318) on [google/adk-docs](https://github.com/google/adk-docs) (2 weeks ago)
+- [feat: add logos and README for TechTown profile](https://github.com/techtown-fr/.github/pull/14) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (3 weeks ago)
+- [Remove bengeois.is-a.dev domain](https://github.com/is-a-dev/register/pull/32273) on [is-a-dev/register](https://github.com/is-a-dev/register) (1 month ago)
 - [docs: add AGENTS.md](https://github.com/Gudsfile/tracksy/pull/231) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (2 months ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor (1 day ago)
-- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. (1 week ago)
-- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (2 weeks ago)
-- [unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap) - Global threat map. Learn wars, conflicts, military bases and history of nations.  (3 weeks ago)
-- [sanyuan0704/code-review-expert](https://github.com/sanyuan0704/code-review-expert) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions (3 weeks ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (2 days ago)
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (5 days ago)
+- [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor (1 week ago)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. (2 weeks ago)
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (3 weeks ago)
