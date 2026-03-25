@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a strong interest in software & web development and machine learning and I am always looking for ways to improve my skills.
 
-- 💼 Currently working as Developer Consultant at [Zenika](https://github.com/Zenika)
+- 💼 Currently working as Cloud & AI Consultant at [TechTown](https://github.com/techtown-fr)
 - 🌱 I’m currently learning Go
 - ☕️ Ping me about **web development**, **cloud** and **ML**
 - 💙 Opensource is great
