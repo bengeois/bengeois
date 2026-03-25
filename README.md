@@ -2,7 +2,7 @@
 
 I'm a passionate developer with a strong interest in software & web development and machine learning and I am always looking for ways to improve my skills.
 
-- 💼 Currently working as Cloud & AI Consultant at [TechTown](https://github.com/techtown-fr)
+- 💼 Currently working as Developer Consultant at [Zenika](https://github.com/Zenika)
 - 🌱 I’m currently learning Go
 - ☕️ Ping me about **web development**, **cloud** and **ML**
 - 💙 Opensource is great
@@ -51,19 +51,19 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### 👷 Check out what I'm currently working on
 
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 days ago)
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 week ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
-- [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (3 weeks ago)
-- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (4 weeks ago)
+- [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (1 month ago)
+- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 month ago)
 - [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 2 weeks ago) - This project allows to help up with Gemini to generate some images &amp; videos 
+- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 3 weeks ago) - This project allows to help up with Gemini to generate some images &amp; videos 
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 1 month ago)
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 1 month ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 2 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.1.2](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.1.2), 3 months ago) - An IA Agent to transcibe podcasts
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 3 months ago) - 👀 tracksy - Visualize your data
 
@@ -81,8 +81,8 @@ I'm a passionate developer with a strong interest in software & web development 
 
 #### ⭐ Recent stars
 
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns (1 week ago)
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (1 week ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (2 weeks ago)
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! (2 weeks ago)
-- [yigitkonur/cli-continues](https://github.com/yigitkonur/cli-continues) - resume any AI coding session in another tool — Claude Code, Copilot, Gemini, Codex, Cursor (3 weeks ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (today)
+- [PackmindHub/coding-agents-matrix](https://github.com/PackmindHub/coding-agents-matrix) - A curated comparison matrix of ai coding agents (2 days ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 days ago)
+- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (5 days ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (5 days ago)
