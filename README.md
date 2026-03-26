@@ -1,10 +1,9 @@
 ### Hello there 👋
 
-I'm a passionate developer with a strong interest in software & web development and machine learning and I am always looking for ways to improve my skills.
+Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
-- 💼 Currently working as Developer Consultant at [Zenika](https://github.com/Zenika)
-- 🌱 I’m currently learning Go
-- ☕️ Ping me about **web development**, **cloud** and **ML**
+- 💼 Currently working as Cloud & AI Consultant at [TechTown](https://techtown.fr/)
+- ☕️ Ping me about **web development**, **cloud** and **AI**
 - 💙 Opensource is great
 
 <hr/>
@@ -34,6 +33,7 @@ I'm a passionate developer with a strong interest in software & web development 
 **🎖️ Certifications**
 
 ![Google Cloud Architect](https://img.shields.io/badge/-Google_Cloud_Architect-000?&logo=google-cloud)
+![Google Cloud Generative AI Leader](https://img.shields.io/badge/-Google_Cloud_Generative_AI_Leader-000?&logo=google-cloud)
 ![GraphQL Developer Associate](https://img.shields.io/badge/-GrapqhQL_Developer_Associate-000?&logo=graphql)
 ![GraphQL Developer Professional](https://img.shields.io/badge/-GrapqhQL_Developer_Professional-000?&logo=graphql)
 
