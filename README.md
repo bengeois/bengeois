@@ -1,9 +1,10 @@
 ### Hello there 👋
 
-Software Engineer & Google Developer Expert (GDE) in Cloud AI
+I'm a passionate developer with a strong interest in software & web development and machine learning and I am always looking for ways to improve my skills.
 
-- 💼 Currently working as Cloud & AI Consultant at [TechTown](https://techtown.fr/)
-- ☕️ Ping me about **web development**, **cloud** and **AI**
+- 💼 Currently working as Developer Consultant at [Zenika](https://github.com/Zenika)
+- 🌱 I’m currently learning Go
+- ☕️ Ping me about **web development**, **cloud** and **ML**
 - 💙 Opensource is great
 
 <hr/>
@@ -33,7 +34,6 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 **🎖️ Certifications**
 
 ![Google Cloud Architect](https://img.shields.io/badge/-Google_Cloud_Architect-000?&logo=google-cloud)
-![Google Cloud Generative AI Leader](https://img.shields.io/badge/-Google_Cloud_Generative_AI_Leader-000?&logo=google-cloud)
 ![GraphQL Developer Associate](https://img.shields.io/badge/-GrapqhQL_Developer_Associate-000?&logo=graphql)
 ![GraphQL Developer Professional](https://img.shields.io/badge/-GrapqhQL_Developer_Professional-000?&logo=graphql)
 
@@ -51,8 +51,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 days ago)
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 week ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (3 days ago)
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
 - [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (1 month ago)
 - [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 month ago)
 - [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
@@ -71,7 +71,7 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 🔨 Latest Pull Requests I published
 
-- [:lock: Add Google auth with @techtown.fr domain restriction](https://github.com/techtown-fr/quiztown/pull/7) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 week ago)
+- [:lock: Add Google auth with @techtown.fr domain restriction](https://github.com/techtown-fr/quiztown/pull/7) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
 - [refactor: Update CI/CD workflow for Firebase deployment](https://github.com/techtown-fr/quiztown/pull/1) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 month ago)
 - [docs: specify deployment flags for webui depending on stack in Cloud Run documentation](https://github.com/google/adk-docs/pull/1318) on [google/adk-docs](https://github.com/google/adk-docs) (1 month ago)
 - [feat: add logos and README for TechTown profile](https://github.com/techtown-fr/.github/pull/14) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (1 month ago)
@@ -81,8 +81,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### ⭐ Recent stars
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (today)
-- [PackmindHub/coding-agents-matrix](https://github.com/PackmindHub/coding-agents-matrix) - A curated comparison matrix of ai coding agents (2 days ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 days ago)
-- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (5 days ago)
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (5 days ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 day ago)
+- [PackmindHub/coding-agents-matrix](https://github.com/PackmindHub/coding-agents-matrix) - A curated comparison matrix of ai coding agents (3 days ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (6 days ago)
+- [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential vault, give your AI agents access to services without exposing keys. (6 days ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (6 days ago)
