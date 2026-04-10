@@ -41,8 +41,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 📕🎙️ My recent posts
 
-- [Kiro : Ne codez plus seul, pilotez vos agents de code](https://bbourgeois.dev/talks/) (2 days ago)
-- [{Cloud || Container} Development environment](https://docs.google.com/presentation/d/e/2PACX-1vSqlbI5XYNODPTGzT1aX-HrV3OpIxGoBVVMI0odZPADwgYvoQEt_SEybStG8t-yen9or4AVeswITbv-/pub) (1 month ago)
+- [Kiro : Ne codez plus seul, pilotez vos agents de code](https://bbourgeois.dev/talks/) (1 week ago)
+- [{Cloud || Container} Development environment](https://docs.google.com/presentation/d/e/2PACX-1vSqlbI5XYNODPTGzT1aX-HrV3OpIxGoBVVMI0odZPADwgYvoQEt_SEybStG8t-yen9or4AVeswITbv-/pub) (2 months ago)
 - [Zenikast - Saison 3 - Episode 5 - Un monde d&#39;agents](https://open.spotify.com/episode/60L2divCAxcmRbvXGVXhpB?si=848328b339c445c0) (2 months ago)
 - [{Cloud || Container} Development environment](https://www.youtube.com/live/HLhXouEH2tA?si=Oqc3AXroX8TKNe7y&amp;t=338) (6 months ago)
 - [Zenikast - Saison 3 - Episode 1 - Opensource, dans les starting blocks pour l&#39;Hacktoberfest](https://open.spotify.com/episode/54Fcamtxrrod6OYPEvbF7N) (6 months ago)
@@ -51,8 +51,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 day ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 week ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 weeks ago)
 - [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (1 month ago)
 - [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 month ago)
 - [google/adk-docs](https://github.com/google/adk-docs) - An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 month ago)
@@ -61,17 +61,17 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.2.0), 3 days ago) - An IA Agent to transcibe podcasts
+- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.2.0), 1 week ago) - An IA Agent to transcibe podcasts
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 1 month ago) - This project allows to help up with Gemini to generate some images &amp; videos 
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 1 month ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 2 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 3 months ago) - 👀 tracksy - Visualize your data
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 4 months ago) - 👀 tracksy - Visualize your data
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [:lock: Add Google auth with @techtown.fr domain restriction](https://github.com/techtown-fr/quiztown/pull/7) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (3 weeks ago)
+- [:lock: Add Google auth with @techtown.fr domain restriction](https://github.com/techtown-fr/quiztown/pull/7) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (4 weeks ago)
 - [refactor: Update CI/CD workflow for Firebase deployment](https://github.com/techtown-fr/quiztown/pull/1) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 month ago)
 - [docs: specify deployment flags for webui depending on stack in Cloud Run documentation](https://github.com/google/adk-docs/pull/1318) on [google/adk-docs](https://github.com/google/adk-docs) (1 month ago)
 - [feat: add logos and README for TechTown profile](https://github.com/techtown-fr/.github/pull/14) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (1 month ago)
@@ -81,8 +81,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### ⭐ Recent stars
 
-- [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious (5 days ago)
-- [tw93/claude-health](https://github.com/tw93/claude-health) - 🤫 Claude Code skill: audit your Claude Code config health across all layers (5 days ago)
-- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. (5 days ago)
-- [kOlapsis/maintenant](https://github.com/kOlapsis/maintenant) - Drop a container. Your stack is monitored. (5 days ago)
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 week ago)
+- [TrNgTien/vfs](https://github.com/TrNgTien/vfs) - Reduce AI agent token usage by 98% via Virtual Function Signatures. MCP server for Cursor &amp; Claude Desktop. Supports Go, TypeScript, Python, Rust, Java, Swift, Kotlin, C# and more. (1 day ago)
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes. (3 days ago)
+- [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source. (5 days ago)
+- [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious (1 week ago)
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run. (1 week ago)
