@@ -41,7 +41,7 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 📕🎙️ My recent posts
 
-- [Kiro : Ne codez plus seul, pilotez vos agents de code](https://bbourgeois.dev/talks/) (2 weeks ago)
+- [Kiro : Ne codez plus seul, pilotez vos agents de code](https://bbourgeois.dev/talks/) (3 weeks ago)
 - [{Cloud || Container} Development environment](https://docs.google.com/presentation/d/e/2PACX-1vSqlbI5XYNODPTGzT1aX-HrV3OpIxGoBVVMI0odZPADwgYvoQEt_SEybStG8t-yen9or4AVeswITbv-/pub) (2 months ago)
 - [Zenikast - Saison 3 - Episode 5 - Un monde d&#39;agents](https://open.spotify.com/episode/60L2divCAxcmRbvXGVXhpB?si=848328b339c445c0) (3 months ago)
 - [{Cloud || Container} Development environment](https://www.youtube.com/live/HLhXouEH2tA?si=Oqc3AXroX8TKNe7y&amp;t=338) (6 months ago)
@@ -51,38 +51,38 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (3 days ago)
-- [techtown-fr/slidev-theme](https://github.com/techtown-fr/slidev-theme) - 🎨 TechTown Slidev Theme (4 days ago)
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
-- [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (1 month ago)
-- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 month ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
+- [techtown-fr/slidev-theme](https://github.com/techtown-fr/slidev-theme) - 🎨 TechTown Slidev Theme (1 week ago)
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (3 weeks ago)
+- [techtown-fr/skills](https://github.com/techtown-fr/skills) - 🤖 TechTown Agent Skills (2 months ago)
+- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (2 months ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.2.0), 2 weeks ago) - An IA Agent to transcibe podcasts
+- [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.2.0), 3 weeks ago) - An IA Agent to transcibe podcasts
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 1 month ago) - This project allows to help up with Gemini to generate some images &amp; videos 
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 2 months ago)
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 2 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 3 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 4 months ago) - 👀 tracksy - Visualize your data
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(): add Dependabot configuration](https://github.com/bengeois/aws-layer-duckdb-python/pull/15) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (3 days ago)
-- [fix: resolve theme assets via Vite imports instead of absolute paths](https://github.com/techtown-fr/slidev-theme/pull/2) on [techtown-fr/slidev-theme](https://github.com/techtown-fr/slidev-theme) (4 days ago)
+- [chore(): add Dependabot configuration](https://github.com/bengeois/aws-layer-duckdb-python/pull/15) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (1 week ago)
+- [fix: resolve theme assets via Vite imports instead of absolute paths](https://github.com/techtown-fr/slidev-theme/pull/2) on [techtown-fr/slidev-theme](https://github.com/techtown-fr/slidev-theme) (1 week ago)
 - [:lock: Add Google auth with @techtown.fr domain restriction](https://github.com/techtown-fr/quiztown/pull/7) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 month ago)
-- [refactor: Update CI/CD workflow for Firebase deployment](https://github.com/techtown-fr/quiztown/pull/1) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 month ago)
+- [refactor: Update CI/CD workflow for Firebase deployment](https://github.com/techtown-fr/quiztown/pull/1) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 months ago)
 - [docs: specify deployment flags for webui depending on stack in Cloud Run documentation](https://github.com/google/adk-docs/pull/1318) on [google/adk-docs](https://github.com/google/adk-docs) (2 months ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... (2 days ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory. (2 days ago)
-- [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts (3 days ago)
-- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - A Self Hosted Image Manipulator - 45&#43; tools, local AI, and pipelines in a single Docker container. No cloud, no telemetry. Your images never leave your machine.  (3 days ago)
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (3 days ago)
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... (1 week ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory. (1 week ago)
+- [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts (1 week ago)
+- [ashim-hq/ashim](https://github.com/ashim-hq/ashim) - A Self Hosted Image Manipulator - 45&#43; tools, local AI, and pipelines in a single Docker container. No cloud, no telemetry. Your images never leave your machine.  (1 week ago)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 week ago)
