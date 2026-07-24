@@ -43,7 +43,7 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 - [Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (1 month ago)
 - [Antigravity ou comment mixer Code &amp; IA pour être plus productif !](https://bbourgeois.dev/talks/) (1 month ago)
-- [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (1 month ago)
+- [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (2 months ago)
 - [Agents CLI : l&#39;outil de Google pour piloter vos agents IA de bout en bout](https://bbourgeois.dev/posts/2026/agents-cli-google/) (2 months ago)
 - [🤖 Comment structurer la mémoire de vos agents avec Google ADK](https://bbourgeois.dev/posts/2026/structurer-memoire-agent-adk/) (3 months ago)
 
@@ -51,28 +51,28 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud. (3 weeks ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (3 weeks ago)
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (1 month ago)
-- [bengeois/covid19-attestation-generator](https://github.com/bengeois/covid19-attestation-generator) - Générer une attestion de sortie en ligne (1 month ago)
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud. (1 month ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 month ago)
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) - 👀 tracksy - Visualize your data (2 months ago)
+- [bengeois/covid19-attestation-generator](https://github.com/bengeois/covid19-attestation-generator) - Générer une attestion de sortie en ligne (2 months ago)
 - [techtown-fr/slidev-theme](https://github.com/techtown-fr/slidev-theme) - 🎨 TechTown Slidev Theme (3 months ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([typescript/v1.9.0](https://github.com/strands-agents/harness-sdk/releases/tag/typescript/v1.9.0), 1 week ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([typescript/v1.10.0](https://github.com/strands-agents/harness-sdk/releases/tag/typescript/v1.10.0), 1 week ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
 - [zenika-open-source/agent-Z-transcribe-podcast](https://github.com/zenika-open-source/agent-Z-transcribe-podcast) ([v1.2.1](https://github.com/zenika-open-source/agent-Z-transcribe-podcast/releases/tag/v1.2.1), 1 month ago) - An IA Agent to transcibe podcasts
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 4 months ago) - This project allows to help up with Gemini to generate some images &amp; videos 
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 5 months ago)
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 5 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 6 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(marketplace): expose registry via .github/plugin/ for agent discovery](https://github.com/techtown-fr/techtown-marketplace/pull/5) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (2 weeks ago)
-- [feat(ui): replace year slider with left sidebar selector](https://github.com/Gudsfile/tracksy/pull/417) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (1 month ago)
+- [feat(marketplace): expose registry via .github/plugin/ for agent discovery](https://github.com/techtown-fr/techtown-marketplace/pull/5) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (3 weeks ago)
+- [feat(ui): replace year slider with left sidebar selector](https://github.com/Gudsfile/tracksy/pull/417) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (2 months ago)
 - [fix(bedrock): fix on-demand throughput doc URL to preserve anchor fragment](https://github.com/strands-agents/harness-sdk/pull/2228) on [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) (2 months ago)
 - [chore(): add Dependabot configuration](https://github.com/bengeois/aws-layer-duckdb-python/pull/15) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (3 months ago)
 - [fix: resolve theme assets via Vite imports instead of absolute paths](https://github.com/techtown-fr/slidev-theme/pull/2) on [techtown-fr/slidev-theme](https://github.com/techtown-fr/slidev-theme) (3 months ago)
@@ -81,8 +81,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### ⭐ Recent stars
 
-- [TheElysium/opencycling](https://github.com/TheElysium/opencycling) - OpenCycling is free and open-source indoor bike training app (4 days ago)
-- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (1 week ago)
+- [TheElysium/opencycling](https://github.com/TheElysium/opencycling) - OpenCycling is free and open-source indoor bike training app (1 week ago)
+- [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (2 weeks ago)
 - [vakra-dev/reader](https://github.com/vakra-dev/reader) - Open source web infrastructure for AI. Scrape, crawl, and automate the web, clean markdown, browser sessions, ready for your agents. (1 month ago)
 - [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy &#43; web dashboard (1 month ago)
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) (1 month ago)
