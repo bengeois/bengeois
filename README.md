@@ -43,7 +43,7 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 - [Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (2 months ago)
 - [Antigravity ou comment mixer Code &amp; IA pour être plus productif !](https://bbourgeois.dev/talks/) (2 months ago)
-- [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (2 months ago)
+- [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (3 months ago)
 - [Agents CLI : l&#39;outil de Google pour piloter vos agents IA de bout en bout](https://bbourgeois.dev/posts/2026/agents-cli-google/) (3 months ago)
 - [🤖 Comment structurer la mémoire de vos agents avec Google ADK](https://bbourgeois.dev/posts/2026/structurer-memoire-agent-adk/) (4 months ago)
 
@@ -51,38 +51,38 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
-- [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) - Formation Cursor — TechTown Slidev training (2 weeks ago)
-- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (2 weeks ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 weeks ago)
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud. (1 month ago)
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (3 weeks ago)
+- [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) - Formation Cursor — TechTown Slidev training (3 weeks ago)
+- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (3 weeks ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (3 weeks ago)
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud. (2 months ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([typescript/v1.13.0](https://github.com/strands-agents/harness-sdk/releases/tag/typescript/v1.13.0), 2 days ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([typescript/v1.13.0](https://github.com/strands-agents/harness-sdk/releases/tag/typescript/v1.13.0), 1 week ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 5 months ago) - This project allows to help up with Gemini to generate some images &amp; videos 
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 6 months ago)
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 6 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 7 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 8 months ago) - 👀 tracksy - Visualize your data
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [✨ feat: add default community health files for the organization](https://github.com/techtown-fr/.github/pull/19) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (2 weeks ago)
-- [🏷️ chore: use the org-standard dependabot labels](https://github.com/techtown-fr/training-cursor/pull/4) on [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) (2 weeks ago)
-- [🏷️ chore: use the org-standard dependabot labels](https://github.com/techtown-fr/quiztown/pull/24) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 weeks ago)
+- [✨ feat: add default community health files for the organization](https://github.com/techtown-fr/.github/pull/19) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (3 weeks ago)
+- [🏷️ chore: use the org-standard dependabot labels](https://github.com/techtown-fr/training-cursor/pull/4) on [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) (3 weeks ago)
+- [🏷️ chore: use the org-standard dependabot labels](https://github.com/techtown-fr/quiztown/pull/24) on [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (3 weeks ago)
 - [feat(marketplace): expose registry via .github/plugin/ for agent discovery](https://github.com/techtown-fr/techtown-marketplace/pull/5) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (1 month ago)
-- [feat(ui): replace year slider with left sidebar selector](https://github.com/Gudsfile/tracksy/pull/417) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (2 months ago)
+- [feat(ui): replace year slider with left sidebar selector](https://github.com/Gudsfile/tracksy/pull/417) on [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) (3 months ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (2 weeks ago)
+- [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances (4 days ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 days ago)
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (3 weeks ago)
 - [TheElysium/opencycling](https://github.com/TheElysium/opencycling) - OpenCycling is free and open-source indoor bike training app (1 month ago)
 - [workweave/router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change. (1 month ago)
-- [vakra-dev/reader](https://github.com/vakra-dev/reader) - Open source web infrastructure for AI. Scrape, crawl, and automate the web, clean markdown, browser sessions, ready for your agents. (2 months ago)
-- [jianshuo/ccglass](https://github.com/jianshuo/ccglass) - See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy &#43; web dashboard (2 months ago)
