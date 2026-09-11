@@ -51,8 +51,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (2 weeks ago)
-- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (2 weeks ago)
+- [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (3 weeks ago)
+- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (3 weeks ago)
 - [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) - Formation Cursor — TechTown Slidev training (1 month ago)
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 month ago)
 - [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 month ago)
@@ -61,28 +61,28 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 🔭 Latest releases I've contributed to
 
-- [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2026-09-03](https://github.com/Zenika/skillZ/releases/tag/v2026-09-03), 1 day ago) - App to manage consultants&#39; skills and technical appetites.
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([typescript/v1.16.0](https://github.com/strands-agents/harness-sdk/releases/tag/typescript/v1.16.0), 4 days ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
-- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.0](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.0), 6 months ago) - This project allows to help up with Gemini to generate some images &amp; videos 
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 6 months ago)
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([python/v1.55.1](https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.55.1), 2 days ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
+- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.1](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.1), 3 days ago) - This project allows to help up with Gemini to generate some images &amp; videos 
+- [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2026-09-03](https://github.com/Zenika/skillZ/releases/tag/v2026-09-03), 1 week ago) - App to manage consultants&#39; skills and technical appetites.
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 7 months ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 7 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: align the brand blue and point at the canonical source](https://github.com/techtown-fr/skills/pull/2) on [techtown-fr/skills](https://github.com/techtown-fr/skills) (2 weeks ago)
-- [feat(brand-guidelines): make it the canonical brand source](https://github.com/techtown-fr/techtown-marketplace/pull/8) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (2 weeks ago)
-- [docs: English Conventional Commits, drop gitmoji](https://github.com/techtown-fr/.github/pull/20) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (2 weeks ago)
-- [feat(project-setup): absorbe repo-template dans le skill](https://github.com/techtown-fr/techtown-marketplace/pull/7) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (2 weeks ago)
+- [docs: align the brand blue and point at the canonical source](https://github.com/techtown-fr/skills/pull/2) on [techtown-fr/skills](https://github.com/techtown-fr/skills) (3 weeks ago)
+- [feat(brand-guidelines): make it the canonical brand source](https://github.com/techtown-fr/techtown-marketplace/pull/8) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (3 weeks ago)
+- [docs: English Conventional Commits, drop gitmoji](https://github.com/techtown-fr/.github/pull/20) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (3 weeks ago)
+- [feat(project-setup): absorbe repo-template dans le skill](https://github.com/techtown-fr/techtown-marketplace/pull/7) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (3 weeks ago)
 - [✨ feat: add default community health files for the organization](https://github.com/techtown-fr/.github/pull/19) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (1 month ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [micro/mu](https://github.com/micro/mu) - A personal assistant (2 weeks ago)
-- [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances (2 weeks ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 weeks ago)
-- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search (1 month ago)
-- [TheElysium/opencycling](https://github.com/TheElysium/opencycling) - OpenCycling is free and open-source indoor bike training app (1 month ago)
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software (1 week ago)
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams (1 week ago)
+- [micro/mu](https://github.com/micro/mu) - A runtime for agents and services (3 weeks ago)
+- [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances (3 weeks ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (3 weeks ago)
