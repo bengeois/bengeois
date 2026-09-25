@@ -41,29 +41,29 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 📕🎙️ My recent posts
 
-- [Workshop Antigravity 2.0 : De la feuille blanche à la prod en 1h](https://bbourgeois.dev/talks/) (4 days ago)
+- [My first talk at AWS Summit Paris: steer your code agents with Kiro](https://builder.aws.com/content/2sLUkl27XTk7Ny70OiYp89A4l4y/my-first-talk-at-aws-summit-paris-steer-your-code-agents-with-kiro) (1 week ago)
+- [Workshop Antigravity 2.0 : De la feuille blanche à la prod en 1h](https://bbourgeois.dev/talks/) (1 week ago)
 - [Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (3 months ago)
-- [Antigravity ou comment mixer Code &amp; IA pour être plus productif !](https://bbourgeois.dev/talks/) (3 months ago)
+- [Antigravity ou comment mixer Code &amp; IA pour être plus productif !](https://bbourgeois.dev/talks/) (4 months ago)
 - [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (4 months ago)
-- [Agents CLI : l&#39;outil de Google pour piloter vos agents IA de bout en bout](https://bbourgeois.dev/posts/2026/agents-cli-google/) (4 months ago)
 
 <hr/>
 
 #### 👷 Check out what I'm currently working on
 
-- [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (1 week ago)
-- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (4 weeks ago)
+- [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (2 weeks ago)
+- [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 month ago)
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (1 month ago)
 - [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) - Formation Cursor — TechTown Slidev training (1 month ago)
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 month ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 months ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([python/v1.56.0](https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.56.0), 3 days ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
-- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.1](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.1), 1 week ago) - This project allows to help up with Gemini to generate some images &amp; videos 
-- [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2026-09-03](https://github.com/Zenika/skillZ/releases/tag/v2026-09-03), 2 weeks ago) - App to manage consultants&#39; skills and technical appetites.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([harness-cli/v0.1.3](https://github.com/strands-agents/harness-sdk/releases/tag/harness-cli/v0.1.3), 1 day ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
+- [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.1](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.1), 2 weeks ago) - This project allows to help up with Gemini to generate some images &amp; videos 
+- [Zenika/skillZ](https://github.com/Zenika/skillZ) ([v2026-09-03](https://github.com/Zenika/skillZ/releases/tag/v2026-09-03), 3 weeks ago) - App to manage consultants&#39; skills and technical appetites.
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 7 months ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 8 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 
@@ -71,18 +71,18 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: align the brand blue and point at the canonical source](https://github.com/techtown-fr/skills/pull/2) on [techtown-fr/skills](https://github.com/techtown-fr/skills) (4 weeks ago)
-- [feat(brand-guidelines): make it the canonical brand source](https://github.com/techtown-fr/techtown-marketplace/pull/8) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (4 weeks ago)
-- [docs: English Conventional Commits, drop gitmoji](https://github.com/techtown-fr/.github/pull/20) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (4 weeks ago)
-- [feat(project-setup): absorbe repo-template dans le skill](https://github.com/techtown-fr/techtown-marketplace/pull/7) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (4 weeks ago)
+- [docs: align the brand blue and point at the canonical source](https://github.com/techtown-fr/skills/pull/2) on [techtown-fr/skills](https://github.com/techtown-fr/skills) (1 month ago)
+- [feat(brand-guidelines): make it the canonical brand source](https://github.com/techtown-fr/techtown-marketplace/pull/8) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (1 month ago)
+- [docs: English Conventional Commits, drop gitmoji](https://github.com/techtown-fr/.github/pull/20) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (1 month ago)
+- [feat(project-setup): absorbe repo-template dans le skill](https://github.com/techtown-fr/techtown-marketplace/pull/7) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (1 month ago)
 - [✨ feat: add default community health files for the organization](https://github.com/techtown-fr/.github/pull/19) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (1 month ago)
 
 <hr/>
 
 #### ⭐ Recent stars
 
-- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform. (3 days ago)
-- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software (2 weeks ago)
-- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams (2 weeks ago)
-- [micro/mu](https://github.com/micro/mu) - The runtime for Micro, a personal assistant (4 weeks ago)
-- [pedrovieira/Holeberry](https://github.com/pedrovieira/Holeberry) - A native and modern macOS menu bar app to monitor and control your Pi-hole instances (1 month ago)
+- [Tarektouati/herdr-pr-modal](https://github.com/Tarektouati/herdr-pr-modal) - Open any pull request in its own worktree, straight from a Herdr (2 days ago)
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform. (1 week ago)
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software (3 weeks ago)
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams (3 weeks ago)
+- [micro/mu](https://github.com/micro/mu) - The runtime for Micro, a personal assistant (1 month ago)
