@@ -41,8 +41,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 📕🎙️ My recent posts
 
-- [My first talk at AWS Summit Paris: steer your code agents with Kiro](https://builder.aws.com/content/2sLUkl27XTk7Ny70OiYp89A4l4y/my-first-talk-at-aws-summit-paris-steer-your-code-agents-with-kiro) (3 weeks ago)
-- [Workshop Antigravity 2.0 : De la feuille blanche à la prod en 1h](https://bbourgeois.dev/talks/) (3 weeks ago)
+- [My first talk at AWS Summit Paris: steer your code agents with Kiro](https://builder.aws.com/content/2sLUkl27XTk7Ny70OiYp89A4l4y/my-first-talk-at-aws-summit-paris-steer-your-code-agents-with-kiro) (4 weeks ago)
+- [Workshop Antigravity 2.0 : De la feuille blanche à la prod en 1h](https://bbourgeois.dev/talks/) (1 month ago)
 - [Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (4 months ago)
 - [Antigravity ou comment mixer Code &amp; IA pour être plus productif !](https://bbourgeois.dev/talks/) (4 months ago)
 - [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/) (4 months ago)
@@ -51,9 +51,9 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (3 days ago)
-- [techtown-fr/techtown-claude-code](https://github.com/techtown-fr/techtown-claude-code) - Configuration Claude Code org-level pour tous les projets TechTown (1 week ago)
-- [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (4 weeks ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (1 week ago)
+- [techtown-fr/techtown-claude-code](https://github.com/techtown-fr/techtown-claude-code) - Configuration Claude Code org-level pour tous les projets TechTown (2 weeks ago)
+- [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (1 month ago)
 - [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (1 month ago)
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (2 months ago)
 
@@ -61,9 +61,9 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 🔭 Latest releases I've contributed to
 
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([harness-cli/v0.2.0](https://github.com/strands-agents/harness-sdk/releases/tag/harness-cli/v0.2.0), 1 day ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([python/v1.61.1](https://github.com/strands-agents/harness-sdk/releases/tag/python/v1.61.1), 1 day ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
 - [zenika-open-source/agent-Z-communication-assistant](https://github.com/zenika-open-source/agent-Z-communication-assistant) ([v1.2.1](https://github.com/zenika-open-source/agent-Z-communication-assistant/releases/tag/v1.2.1), 1 month ago) - This project allows to help up with Gemini to generate some images &amp; videos 
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 7 months ago)
+- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 8 months ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.1](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.1), 8 months ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 10 months ago) - 👀 tracksy - Visualize your data
 
@@ -81,8 +81,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### ⭐ Recent stars
 
-- [Tarektouati/herdr-pr-modal](https://github.com/Tarektouati/herdr-pr-modal) - Open any pull request in its own worktree, straight from a Herdr (2 weeks ago)
-- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform. (3 weeks ago)
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. (3 days ago)
+- [Tarektouati/herdr-pr-modal](https://github.com/Tarektouati/herdr-pr-modal) - Open any pull request in its own worktree, straight from a Herdr (3 weeks ago)
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform. (1 month ago)
 - [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software (1 month ago)
 - [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams (1 month ago)
-- [micro/mu](https://github.com/micro/mu) - The runtime for Micro, an open personal assistant (1 month ago)
