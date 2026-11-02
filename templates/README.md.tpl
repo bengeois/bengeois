@@ -32,6 +32,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 **🎖️ Certifications**
 
+![Google Cloud Professional Agentic Architect](https://img.shields.io/badge/-Google_Cloud_Professional_Agentic_Architect-000?&logo=google-cloud)
+![Claude Certified Developer - Foundations](https://img.shields.io/badge/-Claude_Certified_Developer_--_Foundations-000?&logo=anthropic)
 ![Google Cloud Architect](https://img.shields.io/badge/-Google_Cloud_Architect-000?&logo=google-cloud)
 ![Google Cloud Generative AI Leader](https://img.shields.io/badge/-Google_Cloud_Generative_AI_Leader-000?&logo=google-cloud)
 ![GraphQL Developer Associate](https://img.shields.io/badge/-GrapqhQL_Developer_Associate-000?&logo=graphql)
