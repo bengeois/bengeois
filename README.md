@@ -32,6 +32,8 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 **🎖️ Certifications**
 
+![Google Cloud Professional Agentic Architect](https://img.shields.io/badge/-Google_Cloud_Professional_Agentic_Architect-000?&logo=google-cloud)
+![Claude Certified Developer - Foundations](https://img.shields.io/badge/-Claude_Certified_Developer_--_Foundations-000?&logo=anthropic)
 ![Google Cloud Architect](https://img.shields.io/badge/-Google_Cloud_Architect-000?&logo=google-cloud)
 ![Google Cloud Generative AI Leader](https://img.shields.io/badge/-Google_Cloud_Generative_AI_Leader-000?&logo=google-cloud)
 ![GraphQL Developer Associate](https://img.shields.io/badge/-GrapqhQL_Developer_Associate-000?&logo=graphql)
@@ -43,7 +45,7 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 - [My first talk at AWS Summit Paris: steer your code agents with Kiro](https://builder.aws.com/content/2sLUkl27XTk7Ny70OiYp89A4l4y/my-first-talk-at-aws-summit-paris-steer-your-code-agents-with-kiro) (1 month ago)
 - [Workshop Antigravity 2.0 : De la feuille blanche à la prod en 1h](https://bbourgeois.dev/talks/#talk-2026-09-14-workshop-antigravity-2-0-de-la-feuille-blanche-a-la-prod-en-1h) (1 month ago)
-- [Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/#talk-2026-06-04-antigravity-de-l-idee-a-l-app-de-l-assistance-a-l-orchestration) (4 months ago)
+- [Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/#talk-2026-06-04-antigravity-de-l-idee-a-l-app-de-l-assistance-a-l-orchestration) (5 months ago)
 - [Antigravity ou comment mixer Code &amp; IA pour être plus productif !](https://bbourgeois.dev/talks/#talk-2026-05-28-antigravity-ou-comment-mixer-code-ia-pour-etre-plus-productif) (5 months ago)
 - [Google Antigravity : de l&#39;idée à l&#39;app, de l&#39;assistance à l&#39;orchestration](https://bbourgeois.dev/talks/#talk-2026-05-21-google-antigravity-de-l-idee-a-l-app-de-l-assistance-a-l-orchestration) (5 months ago)
 
@@ -51,27 +53,27 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 #### 👷 Check out what I'm currently working on
 
-- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (2 days ago)
+- [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) - 🦆 A pre-built AWS Lambda Layer containing DuckDB for Python (5 days ago)
 - [techtown-fr/techtown-claude-code](https://github.com/techtown-fr/techtown-claude-code) - Configuration Claude Code org-level pour tous les projets TechTown (1 month ago)
 - [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) - 🤖 TechTown Claude Code Marketplace — plugins pour les collaborateurs (1 month ago)
 - [techtown-fr/.github](https://github.com/techtown-fr/.github) - Welcome to TechTown (2 months ago)
-- [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) (3 months ago)
+- [techtown-fr/training-cursor](https://github.com/techtown-fr/training-cursor) - Formation Cursor — TechTown Slidev training (3 months ago)
 
 <hr/>
 
 #### 🔭 Latest releases I've contributed to
 
-- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([harness-cli/v0.2.3](https://github.com/strands-agents/harness-sdk/releases/tag/harness-cli/v0.2.3), 1 day ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.2](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.2), 3 days ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
+- [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) ([harness-typescript/v0.3.3](https://github.com/strands-agents/harness-sdk/releases/tag/harness-typescript/v0.3.3), 3 days ago) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) ([v1.8.2](https://github.com/rossjrw/pr-preview-action/releases/tag/v1.8.2), 6 days ago) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.
 - [techtown-fr/quiztown](https://github.com/techtown-fr/quiztown) ([1.0.0](https://github.com/techtown-fr/quiztown/releases/tag/1.0.0), 8 months ago)
-- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 10 months ago) - 👀 tracksy - Visualize your data
+- [Gudsfile/tracksy](https://github.com/Gudsfile/tracksy) ([v0.3.0](https://github.com/Gudsfile/tracksy/releases/tag/v0.3.0), 11 months ago) - 👀 tracksy - Visualize your data
 - [zenika-open-source/oss.zenika.com](https://github.com/zenika-open-source/oss.zenika.com) ([2.0.1](https://github.com/zenika-open-source/oss.zenika.com/releases/tag/2.0.1), 1 year ago) - Website to display awesome insights about organization open source activity
 
 <hr/>
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: build layers for Python 3.11 to 3.15](https://github.com/bengeois/aws-layer-duckdb-python/pull/41) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (2 days ago)
+- [feat: build layers for Python 3.11 to 3.15](https://github.com/bengeois/aws-layer-duckdb-python/pull/41) on [bengeois/aws-layer-duckdb-python](https://github.com/bengeois/aws-layer-duckdb-python) (5 days ago)
 - [docs: align the brand blue and point at the canonical source](https://github.com/techtown-fr/skills/pull/2) on [techtown-fr/skills](https://github.com/techtown-fr/skills) (2 months ago)
 - [feat(brand-guidelines): make it the canonical brand source](https://github.com/techtown-fr/techtown-marketplace/pull/8) on [techtown-fr/techtown-marketplace](https://github.com/techtown-fr/techtown-marketplace) (2 months ago)
 - [docs: English Conventional Commits, drop gitmoji](https://github.com/techtown-fr/.github/pull/20) on [techtown-fr/.github](https://github.com/techtown-fr/.github) (2 months ago)
