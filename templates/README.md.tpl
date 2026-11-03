@@ -32,6 +32,7 @@ Software Engineer & Google Developer Expert (GDE) in Cloud AI
 
 **🎖️ Certifications**
 
+![Claude Certified Architect - Foundations](https://img.shields.io/badge/-Claude_Certified_Architect_--_Foundations-000?&logo=anthropic)
 ![Google Cloud Professional Agentic Architect](https://img.shields.io/badge/-Google_Cloud_Professional_Agentic_Architect-000?&logo=google-cloud)
 ![Claude Certified Developer - Foundations](https://img.shields.io/badge/-Claude_Certified_Developer_--_Foundations-000?&logo=anthropic)
 ![Google Cloud Architect](https://img.shields.io/badge/-Google_Cloud_Architect-000?&logo=google-cloud)
